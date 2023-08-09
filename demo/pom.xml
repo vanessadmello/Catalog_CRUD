@@ -11,8 +11,8 @@
 	<groupId>com.api</groupId>
 	<artifactId>restapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>restapi</name>
-	<description>Demo project for Spring Boot</description>
+	<name>CRUD Employee</name>
+	<description>Scenario Assignment</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
